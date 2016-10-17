@@ -1,0 +1,21 @@
+h1{
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+
+ul{
+    font-family: "Papyrus";
+    list-style-type: square;
+}
+
+h2{
+    font-family: "Papyrus";
+}
+
+table{
+    font-family: "Papyrus";
+}
+button {
+    font-weight: bold;
+    position: absolute center;
+}
